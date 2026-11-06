@@ -1,6 +1,5 @@
 # aws-lambda-ec2-s3-
-Image upload to s3
-
+AWS cloud engineering project integrating Amazon S3, AWS Lambda, and Amazon EC2 for automated file processing using Python.
 
 Upload a file to S3.
 S3 triggers Lambda.
